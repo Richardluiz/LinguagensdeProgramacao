@@ -38,19 +38,7 @@ Este é um sistema simples de loteria chamado LOTOFÁCIL desenvolvido em Java. E
   - O sistema verifica se o número é par ou ímpar.
   - Se o número digitado for par, o jogador ganha R$ 100,00; caso contrário, é exibida a mensagem "Que pena! O número digitado é ímpar e a premiação foi para números pares".
 
-## Entrega
 
-Para entregar este projeto:
-
-1. Crie uma conta no GitHub, caso ainda não tenha uma.
-2. Crie um repositório chamado LOTOFÁCIL ou utilize um repositório existente.
-3. Faça o upload do seu projeto para o repositório criado.
-4. Crie um arquivo README.md com instruções sobre o projeto e como executá-lo, indicando a versão do JDK e as bibliotecas utilizadas.
-5. Entregue o link do seu repositório no Canvas da disciplina de Linguagens de Programação.
-
-**Exemplo de entrega:**
-- Link da sua entrega: `https://github.com/seunome/lotofacil`
-- Arquivos do repositório: `Loteria.java` e `README.md`
   ## Video Exemplo
   https://drive.google.com/file/d/1XHsfJlkkFmlcEWhRDCWIzjyK8nV1fDN-/view?usp=drive_link
 
