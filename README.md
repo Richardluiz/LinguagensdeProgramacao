@@ -52,5 +52,9 @@ Para entregar este projeto:
 - Link da sua entrega: `https://github.com/seunome/lotofacil`
 - Arquivos do repositório: `Loteria.java` e `README.md`
   ## Video Exemplo
-  6. - https://www.loom.com/share/a99d3584cf7d4dfca1e998d7bdf6a67e?sid=f1842bab-08e4-48ad-9e66-aed6d39ec286
+  6. - https://github.com/Richardluiz/LinguagensdeProgramacao/assets/80009434/6eaa7682-3834-4baa-b566-e6560348d827
+
+
+
+
 
