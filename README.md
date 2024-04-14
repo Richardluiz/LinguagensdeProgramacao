@@ -39,7 +39,7 @@ Este é um sistema simples de loteria chamado LOTOFÁCIL desenvolvido em Java. E
   - Se o número digitado for par, o jogador ganha R$ 100,00; caso contrário, é exibida a mensagem "Que pena! O número digitado é ímpar e a premiação foi para números pares".
 
 
-  ## Video Exemplo
+  ## Video de Demonstração
   https://drive.google.com/file/d/1XHsfJlkkFmlcEWhRDCWIzjyK8nV1fDN-/view?usp=drive_link
 
 
